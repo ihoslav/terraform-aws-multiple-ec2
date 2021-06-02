@@ -1,0 +1,11 @@
+variable "ami" {}
+variable "instance-type" {}
+variable "subnet-id" {}
+variable "security-group-name" {}
+variable "key-name" {}
+variable "vpc-id" {}
+variable "region" {}
+variable "availability-zone" {}
+variable "ebs-size" {}
+variable "ec2-tag-name" {}
+variable "ebs-tag-name" {}
